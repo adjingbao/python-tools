@@ -45,8 +45,8 @@ Static.RedisExpires = 3600
 ##################################################
 
 # 阿里云
-Static.AliyunAccessKey = r'LTAI5tAZcRN1FLjyZbZPSaEh'
-Static.AliyunSecretKey = r'JIwnwBHBTvx0VREOB9ww8DQN1W67Rf'
+Static.AliyunAccessKey = r'LTAI5tGQK14WvD8wQU6D39VW'
+Static.AliyunSecretKey = r'oLADmJukcCj6sXzS7FRdr2QfivDrjL'
 
 Static.AliyunOssServer = r'oss-cn-hangzhou.aliyuncs.com'
 Static.AliyunOssBucket = r'conf215731'
